@@ -1,0 +1,20 @@
+/**
+ * Ccs file for encapsulating views backgrounds. 
+ * Images and code by the same author.  
+ * @author <a href="mailto:joandv.gil@gmail.com">Joan Gil</a>
+ */
+.anchor {
+    -fx-background-image:url("../Imagenes/loginBackground.png");
+}
+.mainAnchor {
+    -fx-background-image:url("../Imagenes/mainBackground.png");
+}
+.cameraAnchor {
+    -fx-background-image:url("../Imagenes/cameraBackground.png");
+}
+.matriculaAnchor {
+    -fx-background-image:url("../Imagenes/matriculaView.png");
+}
+
+
+
